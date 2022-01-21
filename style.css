@@ -26,3 +26,6 @@ body {
   padding: 20px;
   box-shadow: 10px 5px 25px whitesmoke;
 }
+.model-image {
+  width: 85%;
+}
